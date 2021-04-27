@@ -9,10 +9,10 @@
 My current goal is to get a job as a android developer so that my knowledge begins to accumulate and strengthen and I was not distracted by other problems. 
 
 ## Skills
-JavaScript/ES6, HTML, CSS, Git/Github
+JavaScript, HTML, CSS, Git/Github
 
 ## Code examples
-none
+fun getAge(years: String) = years.toString().toInt() 
 
 ## Expirience
 Work experience was only on courses and also worked independently.
